@@ -1,0 +1,12 @@
+title: Steve Martin
+
+logo: logo.jpg
+
+description: Using economics and data science to measure the economy
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag 
+
+email: marberts@protonmail.com
