@@ -1,9 +1,3 @@
-<style>
-body {text-align: justify}
-</style>
-
-# Steve Martin
-
 ## Education
 
 ### Degrees
@@ -20,9 +14,9 @@ body {text-align: justify}
 
 ## Work experience
 
-- Principal economist, Statistics Canada, 2024--present
+- Principal researcher, Statistics Canada, 2024--present
 
-- Data scientist, Communications Security Establishment, 2022--2024.
+- Data scientist, Government of Canada, 2022--2024.
 
 - Economist, Statistics Canada, 2017--2022.
 
@@ -64,33 +58,46 @@ body {text-align: justify}
 
 ## Software
 
-- Martin, S. (2024). piar: Price Index Aggregation. doi:10.5281/zenodo.10110046, R package version 0.6.0, https://cran.r-project.org/package=piar. 
+- Martin, S. (2024). piar: Price Index Aggregation. doi:10.5281/zenodo.10110046, R package version 0.7.0, https://cran.r-project.org/package=piar. 
 
-- Martin, S. (2024). sps: Sequential Poisson Sampling. doi:10.5281/zenodo.10109857, R package version 0.5.3, https://cran.r-project.org/package=sps. 
+- Martin, S. (2024). sps: Sequential Poisson Sampling. doi:10.5281/zenodo.10109857, R package version 0.5.4, https://cran.r-project.org/package=sps. 
 
-- Martin, S. (2024). gpindex: Generalized Price and Quantity Indexes. doi:10.5281/zenodo.10097742, R package version 0.6.0, https://cran.r-project.org/package=gpindex.
+- Martin, S. (2024). gpindex: Generalized Price and Quantity Indexes. doi:10.5281/zenodo.10097742, R package version 0.6.2, https://cran.r-project.org/package=gpindex.
 
 - Martin, S. (2024). rsmatrix: Matrices for Repeat-Sales Price Indexes. doi:10.5281/zenodo.10110159, R package version 0.2.8, https://cran.r-project.org/package=rsmatrix. 
 
 ## Conference presentations
 
 - Biennial meeting of Statistics Canada's Price Measurement Advisory Committee (Ottawa, 2019).
+
 - 52nd Annual Conference of the Canadian Economics Association (Montreal, 2018).
+
 - Annual meeting of the Canadian Public Economics Group (Montreal, 2016).
+
 - 50th Annual Conference of the Canadian Economics Association (Ottawa, 2016).
+
 - 4th Canadian Early Career Workshop in Environmental Economics (Ottawa, 2016).
+
 - 14th Annual International Industrial Organization Conference (Philadelphia, 2016).
+
 - EAERE-FEEM-VIU European Summer School (Venice, 2015).
+
 - 5th World Congress of Environmental and Resource Economists (Istanbul, 2014).
+
 - 12th Annual International Industrial Organization Conference (Chicago, 2014).
 
 ## Awards and Prizes
 
 - Outstanding Contribution Award, Statistics Canada, 2020.
+
 - Youth Leadership Award, Statistics Canada, 2018.
+
 - Pierre Laberge prize for outstanding doctoral thesis, University of Ottawa, 2018.
+
 - Joseph-Armande Bombardier Canadian Graduate Scholarship, SSHRC, 2015 ($105,000).
+
 - Ontario Graduate Scholarship, Government of Ontario, 2014 ($15,000).
+
 - Excellence Scholarship, University of Ottawa, 2014 ($28,296).
 
 ## Professional activities

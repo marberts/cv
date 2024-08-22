@@ -2,11 +2,11 @@ title: Steve Martin
 
 logo: logo.jpg
 
-description: Using economics and data science to measure the economy
+description: Using economics and data science to measure the economy.
 
-theme: jekyll-theme-minimal 
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
-  - jekyll-seo-tag 
+- jekyll-remote-theme
 
 email: marberts@protonmail.com
