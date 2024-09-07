@@ -28,6 +28,8 @@ layout: default
 
 ## Publications
 
+- Martin, S. (2024). piar: Price Index Aggregation in R. *Journal of Open Source Software*, 9(101): 6781.
+
 - Martin, S. (2021). A note on general decompositions for price indexes. *Prices Analytical Series*. Statistics Canada Catalogue 62F0014M.
 
 - Martin, S. (2020). Gearing up to stay open: Trends in businesses' needs for personal protective equipment since July. *Statcan COVID-19: Data Insights for a Better Canada*. Statistics Canada Catalogue 45-28-0001.
